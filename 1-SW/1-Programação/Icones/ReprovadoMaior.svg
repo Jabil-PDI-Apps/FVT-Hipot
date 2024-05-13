@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="122.489" height="119.436" viewBox="0 0 122.489 119.436">
+  <g id="Group_26974" data-name="Group 26974" transform="translate(0.001 0)">
+    <rect id="Rectangle_888" data-name="Rectangle 888" width="122.489" height="119.436" rx="59" transform="translate(-0.001 0)" fill="#e8061d"/>
+    <g id="icon_parabens" data-name="icon parabens" transform="translate(18.373 16.332)">
+      <g id="Ellipse_134" data-name="Ellipse 134" transform="translate(0 0)" fill="none" stroke="#fff" stroke-width="4" opacity="0.999">
+        <ellipse cx="43.017" cy="43.017" rx="43.017" ry="43.017" stroke="none"/>
+        <ellipse cx="43.017" cy="43.017" rx="41.017" ry="41.017" fill="none"/>
+      </g>
+      <g id="noun_Close_4035763" transform="translate(23.477 23.477)">
+        <g id="Layer_46" data-name="Layer 46" transform="translate(0 0)">
+          <path id="Path_30787" data-name="Path 30787" d="M30.82,27.335l15.2-15.2a2.416,2.416,0,0,0-3.407-3.407l-15.2,15.2L12.216,8.706a2.426,2.426,0,0,0-3.431,3.431l15.222,15.2L8.785,42.533a2.416,2.416,0,1,0,3.407,3.407l15.222-15.2,15.2,15.2a2.416,2.416,0,0,0,3.407-3.407Z" transform="translate(-7.94 -7.996)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg id="Component_26_11" data-name="Component 26 – 11" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_54" data-name="Path 54" d="M0-38.833H18.166v18.166H0Z" transform="translate(0 38.833)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Component_3_9" data-name="Component 3 – 9">
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="13" cy="13" r="13" fill="#005288" opacity="0.3"/>
+  </g>
+  <g id="Group_75" data-name="Group 75" transform="translate(4.012 3.917)">
+    <g id="Group_48" data-name="Group 48" transform="translate(0 0)" clip-path="url(#clip-path)">
+      <g id="Group_47" data-name="Group 47" transform="translate(3.028 3.028)">
+        <path id="Path_53" data-name="Path 53" d="M-6.888-8.611c-2.02,0-6.055,1.014-6.055,3.028V-4.07H-.833V-5.583c0-2.014-4.035-3.028-6.055-3.028m0-1.514A3.027,3.027,0,0,0-3.86-13.152,3.027,3.027,0,0,0-6.888-16.18a3.027,3.027,0,0,0-3.028,3.028,3.027,3.027,0,0,0,3.028,3.028" transform="translate(12.943 16.18)" fill="#fdfcfc"/>
+      </g>
+    </g>
+  </g>
+</svg>

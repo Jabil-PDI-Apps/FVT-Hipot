@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>ic_arrow.svg</file>
+    <file>ic_arrow_gray.svg</file>
+    <file>arrow.png</file>
+    <file>arrow2.png</file>
+    <file>arrow3.png</file>
+  </qresource>
+  <qresource prefix="Menu">
+    <file>icon-status.svg</file>
+  </qresource>
+</RCC>

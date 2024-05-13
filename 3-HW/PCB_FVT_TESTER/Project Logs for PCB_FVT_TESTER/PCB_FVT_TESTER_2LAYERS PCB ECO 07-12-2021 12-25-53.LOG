@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=sinal_CM Pin=SOCKET2-4
+Removed Pin From Net: NetName=sinal_FM Pin=SOCKET2-6
+Added Pin To Net: NetName=sinal_FM Pin=SOCKET2-4
+Added Pin To Net: NetName=sinal_CM Pin=SOCKET2-6

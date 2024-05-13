@@ -1,0 +1,13 @@
+<svg id="Component_56_1" data-name="Component 56 – 1" xmlns="http://www.w3.org/2000/svg" width="319.233" height="311.275" viewBox="0 0 319.233 311.275">
+  <g id="Group_26446" data-name="Group 26446" transform="translate(0)">
+    <g id="Group_26439" data-name="Group 26439">
+      <path id="Path_30788" data-name="Path 30788" d="M154.874,0h9.486A154.874,154.874,0,0,1,319.233,154.874V156.4A154.874,154.874,0,0,1,164.36,311.275h-9.486A154.874,154.874,0,0,1,0,156.4v-1.528A154.874,154.874,0,0,1,154.874,0Z" transform="translate(0)" fill="#fff"/>
+    </g>
+  </g>
+  <g id="Group_26938" data-name="Group 26938" transform="translate(0 -5.882)">
+    <g id="Component_55_3" data-name="Component 55 – 3" transform="translate(37 214.501)">
+      <text id="DESCONECTADO" transform="translate(0 30)" fill="#005288" font-size="30" font-family="Lato-Black, Lato" font-weight="800" letter-spacing="0.01em"><tspan x="0" y="0">DESCONECTADO</tspan></text>
+    </g>
+    <path id="Path_32482" data-name="Path 32482" d="M60.3,5C29.713,5,4.8,30.066,4.8,61.118s24.79,56.118,55.5,56.118,55.5-25.066,55.5-56.118S91.01,5,60.3,5Zm0,107.248c-27.873,0-50.567-22.946-50.567-51.13S32.427,9.988,60.3,9.988s50.567,22.946,50.567,51.13S88.3,112.248,60.3,112.248Zm0-39.283a2.488,2.488,0,0,0,2.467-2.494V39.045a2.467,2.467,0,1,0-4.933,0V70.6A2.464,2.464,0,0,0,60.3,72.965Zm-.37,9.977c-.123,0-.37.125-.493.125s-.247.125-.37.249-.247.125-.37.374a2.43,2.43,0,0,0,0,3.492c.123.125.247.249.37.249.123.125.247.125.37.249a.735.735,0,0,0,.493.125h.493a2.422,2.422,0,0,0,1.727-.748,2.43,2.43,0,0,0,0-3.492A2.915,2.915,0,0,0,59.93,82.942Z" transform="translate(100.2 67.882)" fill="#ff7600"/>
+  </g>
+</svg>

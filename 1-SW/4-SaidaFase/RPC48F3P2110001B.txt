@@ -1,0 +1,57 @@
+SRPC48F3P2110001B
+CJC-HITACHI
+IJC-HITACHI
+NJCH-FVT01
+PFVT1
+TF
+FCool High-Fan
+MSecurity Data - GB(mO)
+dnull
+UV
+MSecurity Data - IR(mO)
+dnull
+UA
+MSecurity Data - ACW(mA)
+dnull
+UW
+MSecurity Data - LC(mA)
+dnull
+UA
+MCool High-Fan - Volt(V)
+d220.3
+UV
+MCool High-Fan - Curr(A)
+d0.038
+UA
+MCool High-Fan - Power(W)
+d1.00
+UW
+Mlow-Fan - Volt(V)
+d0.0
+UV
+Mlow-Fan - Curr(A)
+d0.000
+UA
+Mlow-Fan - Power(W)
+d0.00
+UW
+Mmiddle-Fan - Volt(V)
+d0.0
+UV
+Mmiddle-Fan - Curr(A)
+d0.000
+UA
+Mmiddle-Fan - Power(W)
+d0.00
+UW
+Mclose - Volt(V)
+d0.0
+UV
+Mclose - Curr(A)
+d0.000
+UA
+Mclose - Power(W)
+d0.00
+UW
+
+Valor da fase é de: 1.2 V

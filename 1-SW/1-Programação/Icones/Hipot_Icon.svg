@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40.937" height="20.468" viewBox="0 0 40.937 20.468">
+  <g id="Group_26933" data-name="Group 26933" transform="translate(-0.485 -0.054)">
+    <g id="Group_26440" data-name="Group 26440" transform="translate(0.485 0.054)">
+      <g id="Rectangle_22018" data-name="Rectangle 22018" transform="translate(0 0)" fill="none" stroke="#005187" stroke-width="1">
+        <path d="M4,0H36.937a4,4,0,0,1,4,4V20.468a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" stroke="none"/>
+        <path d="M4,.5H36.937a3.5,3.5,0,0,1,3.5,3.5V19.468a.5.5,0,0,1-.5.5H1a.5.5,0,0,1-.5-.5V4A3.5,3.5,0,0,1,4,.5Z" fill="none"/>
+      </g>
+      <g id="Rectangle_22019" data-name="Rectangle 22019" transform="translate(1.892 2.236)" fill="none" stroke="#005187" stroke-width="1">
+        <path d="M4,0H21.972a4,4,0,0,1,4,4V9.976a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" stroke="none"/>
+        <path d="M4,.5H21.972a3.5,3.5,0,0,1,3.5,3.5V8.976a.5.5,0,0,1-.5.5H1a.5.5,0,0,1-.5-.5V4A3.5,3.5,0,0,1,4,.5Z" fill="none"/>
+      </g>
+      <g id="Rectangle_22020" data-name="Rectangle 22020" transform="translate(28.724 2.236)" fill="none" stroke="#005187" stroke-width="1">
+        <path d="M4,0H6.492a4,4,0,0,1,4,4V9.976a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" stroke="none"/>
+        <path d="M4,.5H6.492A3.5,3.5,0,0,1,9.992,4V8.976a.5.5,0,0,1-.5.5H1a.5.5,0,0,1-.5-.5V4A3.5,3.5,0,0,1,4,.5Z" fill="none"/>
+      </g>
+      <rect id="Rectangle_22021" data-name="Rectangle 22021" width="4.644" height="1.72" rx="0.86" transform="translate(29.584 15.996)" fill="#005288"/>
+      <rect id="Rectangle_22022" data-name="Rectangle 22022" width="4.128" height="1.72" rx="0.86" transform="translate(35.088 15.996)" fill="#005288"/>
+      <circle id="Ellipse_439" data-name="Ellipse 439" cx="1.376" cy="1.376" r="1.376" transform="translate(2.924 15.136)" fill="#005288"/>
+      <circle id="Ellipse_442" data-name="Ellipse 442" cx="1.376" cy="1.376" r="1.376" transform="translate(25.112 15.136)" fill="#005288"/>
+      <circle id="Ellipse_440" data-name="Ellipse 440" cx="1.892" cy="1.892" r="1.892" transform="translate(9.632 13.416)" fill="#005288"/>
+      <ellipse id="Ellipse_441" data-name="Ellipse 441" cx="1.72" cy="1.892" rx="1.72" ry="1.892" transform="translate(17.372 13.416)" fill="#005288"/>
+    </g>
+    <text id="_00.00" data-name="00.00" transform="translate(13.957 9.288)" fill="#005288" font-size="6" font-family="Lato-Bold, Lato" font-weight="700" letter-spacing="0.02em"><tspan x="-7" y="0">00.00</tspan></text>
+  </g>
+</svg>

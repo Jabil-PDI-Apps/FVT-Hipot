@@ -1,0 +1,54 @@
+SRPC48F3P2110004F
+CJC-HITACHI
+IJC-HITACHI
+NJCH-FVT01
+PFVT1
+TP
+MSecurity data - GB(mO)
+d60
+UV
+MSecurity data - IR(mO)
+d354
+UA
+MSecurity data - ACW(mA)
+d1.98
+UW
+MSecurity data - LC(mA)
+d0.237
+UA
+MCool High-Fan - Volt(V)
+d220.7
+UV
+MCool High-Fan - Curr(A)
+d1.650
+UA
+MCool High-Fan - Power(W)
+d346.00
+UW
+Mlow-Fan - Volt(V)
+d220.7
+UV
+Mlow-Fan - Curr(A)
+d1.544
+UA
+Mlow-Fan - Power(W)
+d238.50
+UW
+Mmiddle-Fan - Volt(V)
+d220.8
+UV
+Mmiddle-Fan - Curr(A)
+d1.372
+UA
+Mmiddle-Fan - Power(W)
+d290.00
+UW
+Mclose - Volt(V)
+d221.7
+UV
+Mclose - Curr(A)
+d0.074
+UA
+Mclose - Power(W)
+d9.00
+UW

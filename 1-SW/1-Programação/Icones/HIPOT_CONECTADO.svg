@@ -1,0 +1,19 @@
+<svg id="Component_56_1" data-name="Component 56 – 1" xmlns="http://www.w3.org/2000/svg" width="319.233" height="311.275" viewBox="0 0 319.233 311.275">
+  <g id="Group_26446" data-name="Group 26446" transform="translate(0)">
+    <g id="Group_26439" data-name="Group 26439">
+      <path id="Path_30788" data-name="Path 30788" d="M154.874,0h9.486A154.874,154.874,0,0,1,319.233,154.874V156.4A154.874,154.874,0,0,1,164.36,311.275h-9.486A154.874,154.874,0,0,1,0,156.4v-1.528A154.874,154.874,0,0,1,154.874,0Z" transform="translate(0)" fill="#fff"/>
+    </g>
+  </g>
+  <g id="Group_26937" data-name="Group 26937" transform="translate(0 -8.501)">
+    <g id="Group_11367" data-name="Group 11367" transform="translate(104.358 77.501)">
+      <path id="Path_841" data-name="Path 841" d="M3816.9,3531.372l19.869,18.719,39.563-39.442" transform="translate(-3790.74 -3474.283)" fill="none" stroke="#5abf50" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      <g id="Ellipse_113" data-name="Ellipse 113" fill="none" stroke="#5abf50" stroke-width="5">
+        <circle cx="55.505" cy="55.505" r="55.505" stroke="none"/>
+        <circle cx="55.505" cy="55.505" r="53.005" fill="none"/>
+      </g>
+    </g>
+    <g id="Component_55_1" data-name="Component 55 – 1" transform="translate(59 214.501)">
+      <text id="CONECTADO_" data-name="CONECTADO!" transform="translate(0 30)" fill="#005288" font-size="30" font-family="Lato-Black, Lato" font-weight="800" letter-spacing="0.01em"><tspan x="0" y="0">CONECTADO!</tspan></text>
+    </g>
+  </g>
+</svg>

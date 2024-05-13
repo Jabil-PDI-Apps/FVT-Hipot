@@ -1,2 +1,1 @@
-# FVT-Hipot
-Files for FVT-Hipot project
+# Jabil_FVT

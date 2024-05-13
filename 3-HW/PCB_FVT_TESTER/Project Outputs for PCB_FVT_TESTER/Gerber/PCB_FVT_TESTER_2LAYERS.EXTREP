@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: PCB_FVT_TESTER_2LAYERS.GBR   14/12/2021  12:11:52
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Top Layer                               
+.GTO                Top Overlay                             
+.GBP                Bottom Paste                            
+.GTS                Top Solder                              
+.GPT                Top Pad Master                          
+.GBL                Bottom Layer                            
+.GPB                Bottom Pad Master                       
+.GBS                Bottom Solder                           
+.GBO                Bottom Overlay                          
+.GM2                Top 3D Body                             
+.GM1                Mechanical 1                            
+.GM5                Top Assembly                            
+.GM3                Top Courtyard                           
+.GM15               Mechanical 15                           
+.GM16               Top Component Center                    
+.GM20               Bottom Assembly                         
+.GM13               Mechanical 13                           
+.GM24               Bottom Component Center                 
+.GM21               Bottom Courtyard                        
+.GM23               Bottom 3D Body                          
+.GD1                Drill Drawing                           
+.GG1                Drill Guide                             
+------------------------------------------------------------------------------------------

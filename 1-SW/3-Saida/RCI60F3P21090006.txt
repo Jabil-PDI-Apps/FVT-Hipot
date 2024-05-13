@@ -1,0 +1,63 @@
+SRCI60F3P21090006
+CJC-HITACHI
+IJC-HITACHI
+NJCH-FVT01
+PFVT1
+TP
+MSecurity data - GB(mO)
+d52
+UO
+MSecurity data - IR(mO)
+d697
+UO
+MSecurity data - ACW(mA)
+d1.67
+UA
+MSecurity data - LC(mA)
+d0.216
+UA
+MCool High-Fan - Volt(V)
+d221.2
+UV
+MCool High-Fan - Curr(A)
+d0.966
+UA
+MCool High-Fan - Power(W)
+d208.00
+UW
+Mwater pump - Volt(V)
+d221.9
+UV
+Mwater pump - Curr(A)
+d0.042
+UA
+Mwater pump - Power(W)
+d9.00
+UW
+Mlow-Fan - Volt(V)
+d221.4
+UV
+Mlow-Fan - Curr(A)
+d0.676
+UA
+Mlow-Fan - Power(W)
+d138.50
+UW
+Mmiddle-Fan - Volt(V)
+d221.5
+UV
+Mmiddle-Fan - Curr(A)
+d0.718
+UA
+Mmiddle-Fan - Power(W)
+d175.50
+UW
+Mclose - Volt(V)
+d221.9
+UV
+Mclose - Curr(A)
+d0.036
+UA
+Mclose - Power(W)
+d7.50
+UW
